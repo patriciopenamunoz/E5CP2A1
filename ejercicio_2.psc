@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_2
 	Escribir "Ingrese el primer número:"
 	Leer num1
 	Escribir "Ingrese el segundo número:"

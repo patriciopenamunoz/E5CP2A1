@@ -1,4 +1,4 @@
-Algoritmo sin_titulo
+Algoritmo ejercicio_1
 	Repetir
 		Escribir "Ingrese un número entre 0 y 15:"
 		Leer num
